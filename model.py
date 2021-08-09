@@ -1,8 +1,7 @@
 # ========================================================= #
 # Anomaly detection using Autoencoder (Tensorflow)
 # ---------------------------------------------------------
-# Owner : OoBA Labs (www.oobalabs.com)
-# Author: Arpit Kapoor (arpit@oobalabs.com)
+# Author: Arpit Kapoor (kapoor.arpit97@gmail.com)
 # ========================================================= #
 
 import tensorflow as tf
